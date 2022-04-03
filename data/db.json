@@ -1,0 +1,63 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "brand": "",
+      "model-name": "",
+      "car-image": "",
+      "combustivel-icon": "",
+      "price": "",
+      "information": [
+        {
+          "velocidade": "",
+          "combustivel": "",
+          "lugares": "",
+          "cambio": "",
+          "cor": "",
+          "final-placa": "",
+          "ar-condicionado": ""
+        }
+      ]
+    }
+  ],
+  "perfil": [
+    {
+      "foto": "",
+      "dados": {
+        "nome-completo": "",
+        "senha": "",
+        "cnh": ""
+      },
+      "trocar-senha": {
+        "senha-atual": "",
+        "senha": "",
+        "repetir-senha": ""
+      }
+    },
+    {
+      "agendamentos": [
+        {
+          "brand": "",
+          "model-name": "",
+          "price": "",
+          "car-image": "",
+          "combustivel-icone": "",
+          "data": {
+            "data-inicio": "",
+            "data-fim": ""
+          }
+        }
+      ]
+    }
+  ],
+  "register": [
+    {
+      "id": 1,
+      "nome": "",
+      "email": "",
+      "cnh": "",
+      "senha": "",
+      "repetir-senha": ""
+    }
+  ]
+}
