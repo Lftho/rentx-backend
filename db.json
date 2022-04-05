@@ -2,20 +2,20 @@
   "produtos": [
     {
       "id": 1,
-      "brand": "",
-      "model-name": "",
-      "car-image": "",
-      "combustivel-icon": "",
-      "price": "",
+      "brand": "audi",
+      "model-name": "rs 5 coupe",
+      "car-image": "https://github.com/Lftho/rentx-backend/blob/master/data/assets/audi/audi.png",
+      "combustivel-icon": "https://github.com/Lftho/rentx-backend/blob/master/data/assets/audi/raio.svg",
+      "price": "640",
       "information": [
         {
-          "velocidade": "",
-          "combustivel": "",
-          "lugares": "",
-          "cambio": "",
-          "cor": "",
-          "final-placa": "",
-          "ar-condicionado": ""
+          "velocidade": "300",
+          "combustivel": "eletrico",
+          "lugares": "5",
+          "cambio": "automático",
+          "cor": "branco",
+          "final-placa": "9",
+          "ar-condicionado": "sim"
         }
       ]
     }
