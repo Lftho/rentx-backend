@@ -59,5 +59,22 @@
       "senha": "",
       "repetir-senha": ""
     }
+  ],
+  "POST_kicks": [
+    {
+      "name": "Pista Vista Verde",
+      "latitude": "-23.502254704905965",
+      "longitude": "-46.72135045811786",
+      "about": "Pista Vista Verde",
+      "instructions": "é uma praça onde tem vários picos de diversão",
+      "open_on_weekends": "público",
+      "images": [
+        {
+          "id": "",
+          "path": ""
+        }
+      ],
+      "id": 2
+    }
   ]
 }
