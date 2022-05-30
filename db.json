@@ -2,15 +2,15 @@
   "POST_kicks": [
     {
       "name": "Pista Vista Verde",
-      "latitude": "-23.502254704905965",
-      "longitude": "-46.72135045811786",
+      "latitude": -23.4755588,
+      "longitude": -46.7869166,
       "about": "Pista Vista Verde",
       "instructions": "é uma praça onde tem vários picos de diversão",
       "open_on_weekends": "público",
       "images": [
         {
-          "id": "",
-          "path": ""
+          "id": "1",
+          "path": "https://cdn.agenciamural.org.br/2021/06/Skate-Pirituba-zona-norte-de-S%C3%A3o-Paulo-6-1-1024x683.jpg"
         }
       ],
       "id": 2
