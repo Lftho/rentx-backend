@@ -6,7 +6,7 @@
       "longitude": -46.7869166,
       "about": "Pista Vista Verde",
       "instructions": "é uma praça onde tem vários picos de diversão",
-      "open_on_weekends": "público",
+      "open_on_weekends": true,
       "opening_hours": "Das 8h às 22h",
       "images": [
         {
