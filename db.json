@@ -30,7 +30,31 @@
       "images": [
         {
           "id": 1,
-          "url": "https://cdn.agenciamural.org.br/2021/06/Skate-Pirituba-zona-norte-de-S%C3%A3o-Paulo-6-1-1024x683.jpg"
+          "url": "http://lojasdeskate.com.br/wp-content/uploads/2020/05/CENTRO-3-e1589481219161.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://4.bp.blogspot.com/-Hj-x4Mgkg_g/WrO8AeFfoTI/AAAAAAAB_Zw/m1yqpHGP2_kLKkFsE0lbq4jkZYwqyCbFgCLcBGAs/s1600/IMG_0636.jpg"
+        },
+        {
+          "id": 3,
+          "url": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=700,h=1680,fit=scale-down/wp-content/uploads/2019/03/centro-de-esportes-radicais-pump-track-910x559.jpeg"
+        },
+        {
+          "id": 4,
+          "url": "https://vejasp.abril.com.br/wp-content/uploads/2017/11/parque32.jpg"
+        },
+        {
+          "id": 5,
+          "url": "https://catracalivre.com.br/cdn-cgi/image/f=auto,q=60,w=700,h=1680,fit=scale-down/wp-content/uploads/2019/03/centro-de-esportes-radicais-parkour-910x541.jpeg"
+        },
+        {
+          "id": 6,
+          "url": "https://i.ytimg.com/vi/W3af8KmwL3M/maxresdefault.jpg"
+        },
+        {
+          "id": 7,
+          "url": "https://i.ytimg.com/vi/6pNH3rBfWJY/maxresdefault.jpg"
         }
       ]
     }
