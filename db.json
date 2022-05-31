@@ -14,22 +14,22 @@
           "path": "https://cdn.agenciamural.org.br/2021/06/Skate-Pirituba-zona-norte-de-S%C3%A3o-Paulo-6-1-1024x683.jpg"
         }
       ],
-      "id": 2
+      "id": 1
     }
   ],
-  "POST_kicks-detail": [
+  "GET_kicks-detail": [
     {
-      "id": 3,
+      "id": 2,
       "name": "Centro de Esporte Radical",
-      "latitude": -23.4755588,
-      "longitude": -46.7869166,
+      "latitude": -23.5159498,
+      "longitude": -46.7171976,
       "about": "Centro de Esporte Radical",
       "instructions": "local onde ontem contém estacionamento",
       "open_on_weekends": "público",
       "opening_hours": "Das 8h às 22h",
       "images": [
         {
-          "id": 3,
+          "id": 1,
           "url": "https://cdn.agenciamural.org.br/2021/06/Skate-Pirituba-zona-norte-de-S%C3%A3o-Paulo-6-1-1024x683.jpg"
         }
       ]
