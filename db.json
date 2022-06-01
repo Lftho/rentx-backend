@@ -1,6 +1,7 @@
 {
-  "POST_kicks": [
+  "GET_kicks-detail": [
     {
+      "id": 1,
       "name": "Pista Vista Verde",
       "latitude": -23.4755588,
       "longitude": -46.7869166,
@@ -13,11 +14,8 @@
           "id": 1,
           "path": "https://cdn.agenciamural.org.br/2021/06/Skate-Pirituba-zona-norte-de-S%C3%A3o-Paulo-6-1-1024x683.jpg"
         }
-      ],
-      "id": 1
-    }
-  ],
-  "GET_kicks-detail": [
+      ]
+    },
     {
       "id": 2,
       "name": "Centro de Esporte Radical",
@@ -51,6 +49,27 @@
         {
           "id": 6,
           "url": "https://i.ytimg.com/vi/W3af8KmwL3M/maxresdefault.jpg"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Parque da Juventude",
+      "latitude": -23.5159829,
+      "longitude": -46.7402069,
+      "about": "Refúgio urbano arborizado com campos esportivos e um parque para cães, além de uma biblioteca e um ginásio.",
+      "instructions": "Entrada com acessibilidade | Estacionamento com acessibilidade | Bom para levar crianças",
+      "open_on_weekends": true,
+      "opening_hours": "Das 06h às 19h",
+      "images": [
+        {
+          "id": 1,
+          "url": "https://offloadmedia.feverup.com/saopaulosecreto.com/wp-content/uploads/2020/07/19075528/parque-da-juventude-carandiru3123-1024x698.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://avaazdo.s3.amazonaws.com/c5565aa1bacdc8032ae5db4c9f929703.jpeg"
         }
       ]
     }
